@@ -1,5 +1,5 @@
-import Person from "./components/person";
-import Product from "./components/product";
+import Person from "./components/Person";
+import Product from "./components/Product";
 const App = () => {
   return (
     <div>
